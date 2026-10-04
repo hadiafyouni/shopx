@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project was developed locally in January 2026 and published to GitHub afterwards, so the commit history here doesn't reflect how it was built.
+
 <div align="center">
 
 # ShopX
